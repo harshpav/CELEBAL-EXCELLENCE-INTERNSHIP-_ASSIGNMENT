@@ -1,8 +1,4 @@
 # CELEBAL-EXCELLENCE-INTERNSHIP-_ASSIGNMENT
-# CELEBAL Excellence Internship Assignment
+## Week 2 Assignment
 
-## Notebooks
-
-📓 [Week 1 Assignment](./week1_harsh.ipynb)
-
-📓 [Week 2 Assignment](./week2_harsh.ipynb)
+🚀 [Open in Google Colab](https://colab.research.google.com/drive/15rtFDu5VrgAQCDH3P0KOHWdcvys1JWdx?usp=sharing)
