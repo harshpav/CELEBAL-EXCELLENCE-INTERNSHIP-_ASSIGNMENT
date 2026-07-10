@@ -1,0 +1,22 @@
+# ── Web Framework ─────────────────────────────────────────────────────────────
+flask==3.1.1
+flask-cors==5.0.1
+gunicorn==21.2.0
+
+# ── Data Processing ───────────────────────────────────────────────────────────
+pandas==2.2.3
+numpy==1.26.4
+openpyxl==3.1.5          # Excel (.xlsx) support
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# ── AI / LLM ──────────────────────────────────────────────────────────────────
+groq==0.28.0              # Groq SDK — uses LLaMA 3.3-70b-versatile
+
+# ── RAG / Vector Store ────────────────────────────────────────────────────────
+chromadb==0.6.3           # In-memory vector store for self-correction docs
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.1.1      # Loads GROQ_API_KEY from backend/.env
