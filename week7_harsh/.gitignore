@@ -1,0 +1,50 @@
+# ---- Secrets ----
+.env
+*.key
+*.pem
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.whl
+.venv/
+venv/
+env/
+
+# ---- Data & Models ----
+data/chroma/
+data/uploads/
+*.pdf
+*.docx
+# Keep sample docs
+!data/sample_docs/
+
+# ---- Testing ----
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# ---- Type checking ----
+.mypy_cache/
+
+# ---- Linting ----
+.ruff_cache/
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
