@@ -272,7 +272,3 @@ Return trace of all attempts to frontend
 ```
 
 ---
-
-## 📄 License
-
-MIT
